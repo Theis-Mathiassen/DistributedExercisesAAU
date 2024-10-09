@@ -160,11 +160,14 @@ For all exercises today, you can use the `sync` network type - but most algorith
 
 # Exercise 5
 1. Identify two problems with Reliable Multicast over IP
-   1. What is a practical problem for Reliable Multicast over IP? 
+   1. What is a practical problem for Reliable Multicast over IP?
+      ??
    2. What is a theoretical problem for Reliable Multicast over IP?
+      All nacks might get lost.
    
 2. Identify all the events in the following picture
    1. Compute the lamport clocks for each event
+      
    2. Compute the vector clock for each event
    3. What is the difference in the orderings produced by vector and lamport clocks?
 
