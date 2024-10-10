@@ -167,7 +167,6 @@ For all exercises today, you can use the `sync` network type - but most algorith
    
 2. Identify all the events in the following picture
    1. Compute the lamport clocks for each event
-      
    2. Compute the vector clock for each event
    3. What is the difference in the orderings produced by vector and lamport clocks?
 
